@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Do you currently have a fever?",
+    "options": [
+      "Yes, high fever (above 39°C)",
+      "Mild fever (37.5°C - 38.9°C)",
+      "Slight temperature (below 37.5°C)",
+      "No fever"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Are you experiencing a cough?",
+    "options": [
+      "Dry cough",
+      "Wet/productive cough",
+      "Occasional cough",
+      "No cough"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How long have you had these symptoms?",
+    "options": [
+      "Less than 1 day",
+      "1-3 days",
+      "4-7 days",
+      "More than a week"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Do you feel tired or fatigued?",
+    "options": [
+      "Extremely tired",
+      "Somewhat tired",
+      "Occasionally tired",
+      "No fatigue"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Are you experiencing shortness of breath?",
+    "options": [
+      "Often, even at rest",
+      "Only with physical activity",
+      "Occasionally",
+      "Not at all"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Do you have any chest pain?",
+    "options": [
+      "Sharp pain",
+      "Pressure or tightness",
+      "Occasional discomfort",
+      "No pain"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Have you noticed any rashes or skin changes?",
+    "options": [
+      "Yes, red rashes",
+      "Itchy patches",
+      "Blisters",
+      "No changes"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Do you have a sore throat?",
+    "options": [
+      "Very sore",
+      "Mild soreness",
+      "Scratchy throat",
+      "No soreness"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Have you had a recent loss of taste or smell?",
+    "options": [
+      "Complete loss of both",
+      "Loss of one (taste or smell)",
+      "Minor changes",
+      "No changes"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Are you experiencing nausea or vomiting?",
+    "options": [
+      "Frequent vomiting",
+      "Occasional vomiting",
+      "Just nausea",
+      "None"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Have you had diarrhea?",
+    "options": [
+      "Frequent diarrhea",
+      "Mild",
+      "Off and on",
+      "None"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Do you have any headaches?",
+    "options": [
+      "Severe headache",
+      "Mild to moderate",
+      "Comes and goes",
+      "No headaches"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Are your muscles or joints aching?",
+    "options": [
+      "Constant and severe",
+      "Mild aches",
+      "Happens after activity",
+      "No aches"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Have you experienced chills or night sweats?",
+    "options": [
+      "Both chills and night sweats",
+      "Only chills",
+      "Only night sweats",
+      "Neither"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Are your eyes red or itchy?",
+    "options": [
+      "Very red and itchy",
+      "Mild redness",
+      "Watery only",
+      "Normal"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Have you been in contact with a sick person recently?",
+    "options": [
+      "Yes, with confirmed illness",
+      "Yes, unsure of illness",
+      "Possibly",
+      "No contact"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Do you have a runny or blocked nose?",
+    "options": [
+      "Constant runny nose",
+      "Stuffy nose",
+      "Alternates between both",
+      "Clear"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Are you feeling dizzy or lightheaded?",
+    "options": [
+      "Frequently",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Are you experiencing unusual bleeding or bruising?",
+    "options": [
+      "Yes, without injury",
+      "Easy bruising",
+      "Minor cuts bleed more",
+      "No issues"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Do you have a known medical condition?",
+    "options": [
+      "Diabetes or heart disease",
+      "Asthma or lung condition",
+      "Autoimmune disease",
+      "None"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Are you taking any medications?",
+    "options": [
+      "Yes, regularly",
+      "Occasionally",
+      "Recently started",
+      "No medications"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Do you smoke?",
+    "options": [
+      "Yes, daily",
+      "Occasionally",
+      "Quit recently",
+      "Never smoked"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "How often do you consume alcohol?",
+    "options": [
+      "Daily",
+      "Weekly",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "How is your appetite lately?",
+    "options": [
+      "No appetite",
+      "Reduced appetite",
+      "Normal",
+      "Increased"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Have you had unintentional weight changes?",
+    "options": [
+      "Significant loss",
+      "Slight loss",
+      "Gained weight",
+      "No changes"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Have you traveled recently?",
+    "options": [
+      "Yes, internationally",
+      "Yes, locally",
+      "Recently returned from trip",
+      "No travel"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Do you have trouble sleeping?",
+    "options": [
+      "Every night",
+      "Occasionally",
+      "Only recently",
+      "No trouble"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Have you had mood changes recently?",
+    "options": [
+      "Often anxious or depressed",
+      "Mild mood swings",
+      "Rarely",
+      "No changes"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Do you experience heart palpitations?",
+    "options": [
+      "Frequently",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "How would you describe your current stress level?",
+    "options": [
+      "Very high",
+      "Moderate",
+      "Low",
+      "No stress"
+    ]
+  }
+] 

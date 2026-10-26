@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084805392009",
+    "project_id": "healthspark-81c3c",
+    "storage_bucket": "healthspark-81c3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084805392009:android:b2cdc285dda54c79644858",
+        "android_client_info": {
+          "package_name": "com.example.healthspark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084805392009-miebnr7q10dmunkcl3dd3f3ckdrpaa6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthspark",
+            "certificate_hash": "c2aac7d70f9edad851955f78d02d9be5d6ad1ee9"
+          }
+        },
+        {
+          "client_id": "1084805392009-denp86t30m7f77cng0st7jhh12763gjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HERP7CAiOGsNW5aKmA-Dq2Jgy5YjQ_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084805392009-denp86t30m7f77cng0st7jhh12763gjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

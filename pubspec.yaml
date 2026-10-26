@@ -1,0 +1,57 @@
+name: healthspark
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  firebase_auth: ^5.6.0
+  firebase_core: ^3.14.0
+  cloud_firestore: ^5.6.11
+  google_sign_in: ^6.1.1
+  firebase_storage: ^12.4.9
+  provider: ^6.1.5
+  shared_preferences: ^2.5.3
+  google_maps_flutter: ^2.12.3
+  geolocator: ^14.0.2
+  http: ^1.4.0
+  image_picker: ^1.1.2
+  introduction_screen: ^3.1.17
+  url_launcher: ^6.3.1
+  permission_handler: ^12.0.0+1
+  pdf: ^3.10.4
+  printing: ^5.11.0
+
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  firebase_app_check: ^0.3.2+9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/png/hs_logo.png
+      - assets/png/g_signin.png
+      - assets/opener/OPic1.png
+      - assets/opener/OPic2.png
+      - assets/opener/OPic3.png
+      - assets/opener/hsintro.png
+      - assets/backgrounds/boardingBG.png
+      - assets/symptom_questions.json
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/hs_icon.png"
